@@ -20,7 +20,6 @@ Experience my work live by visiting my portfolio [here](https://tiwarijyoti.in).
 
 - **Frontend**: HTML5, CSS3, JavaScript, and modern CSS frameworks
 - **Version Control**: Git, GitHub
-- **Build Tools**: npm, Webpack (if applicable)
 
 ## 🛠️ Features
 
